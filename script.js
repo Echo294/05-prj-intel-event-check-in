@@ -1,3 +1,5 @@
+alert("JS script loaded successfully!");
+
 const attendeeNameInput = document.getElementById("attendeeName");
 const teamSelect = document.getElementById("teamSelect");
 const checkInForm = document.getElementById("checkInForm");
